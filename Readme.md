@@ -7,7 +7,7 @@
 ### What I'm using ? 🛠
 
 
-- Python, HTML5, CSS3, Git, GitHub
+- AWS Cloud, Python, SQLite, HTML5, Git, GitHub, Linux
 
 - 💬 Ask  me about anything that you want to learn
 
